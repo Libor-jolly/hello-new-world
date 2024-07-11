@@ -1,4 +1,3 @@
-# hello-new-world
 #! /usr/bin/env python
 
 import sys
